@@ -1,0 +1,16 @@
+{
+    "name": "Lancaster Erotic massage",
+    "short_name": "Lancaster Erotic Massage \ud83c\udf0d",
+    "description": "Discover the finest Erotic massage venues in Lancaster, United States. Browse verified listings, reviews, and contact information.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#e91e63",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
